@@ -18,7 +18,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://my-portfolio-psi-lime.vercel.app",
+        "APP_URL": "https://web-portofolio-vercel.vercel.app",
         "APP_KEY": "base64:39WIYtRpsRheY+OocoWhSCBfgXR3SC+vLOJw82IuX+E=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
