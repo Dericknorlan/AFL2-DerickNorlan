@@ -3,8 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my journey, skills, and accomplishments as a **Web Developer**. Deployed seamlessly on **Vercel**, the website serves as a hub for everything about my professional and creative work.
 
 ### 🚀 Live Preview  
-🌐 Check it out here: [My Portfolio Link](afl-2-derick-norlan.vercel.app)
-
+🌐 **Live Demo**: [My Portfolio](https://afl-2-derick-norlan.vercel.app)
 ---
 
 ## 📖 Table of Contents
