@@ -18,8 +18,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://web-portfolio-vercel.vercel.app",
-        "APP_KEY": "bbase64:39WIYtRpsRheY+OocoWhSCBfgXR3SC+vLOJw82IuX+E",
+        "APP_URL": "https://afl-2-derick-norlan.vercel.app",
+        "APP_KEY": "base64:39WIYtRpsRheY+OocoWhSCBfgXR3SC+vLOJw82IuX+E=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
